@@ -1,1 +1,1 @@
-# Q-A-with-Google-Gemma
+# Q&A-with-Google-Gemma
