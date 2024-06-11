@@ -4,6 +4,7 @@
 This repository contains an end-to-end Question and Answer (Q&A) system built using Google Gemma. The project leverages Google's Gemma for natural language understanding and processing, providing accurate answers to user queries.
 
 ## Features
+
 - User-friendly interface for asking questions.
 - Integration with Google Gemma for natural language processing.
 - Backend server to handle requests and responses.
